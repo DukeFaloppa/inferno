@@ -1,0 +1,5 @@
+/pyvenv/pyhell/*
+/pyscripts/test*
+/pyscripts/*attempt*
+/pyscripts/__pychache__
+**.pyc
